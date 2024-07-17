@@ -1,4 +1,4 @@
-# :hotsprings: BootCamp Santander 2024 Backend comm Java :hotsprings:
+# :hotsprings: BootCamp Santander 2024 Backend com Java :hotsprings:
 
 >Foram abordados os seguintes assuntos e tecnológias dentro deste BootCamp:
 
