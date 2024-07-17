@@ -3,7 +3,6 @@
 "Bootcamp em parceria da plataforma de ensino DIO e do Santander S.A."
 
 Os seguintes temas foram abordados neste bootcamp:
-
 * Príncipios de Desenvolvimento de Software Colaborativo;
 * Dominando a Linguagem de Programação Java;
 * Programação Orientada a Objetos com Java;
