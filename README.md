@@ -1,13 +1,35 @@
-# BootcampSantanderJava
+# :hotsprings: BootCamp Santander 2024 Backend comm Java :hotsprings:
 
-"Bootcamp em parceria da plataforma de ensino DIO e do Santander S.A."
+>Foram abordados os seguintes assuntos e tecnológias dentro deste BootCamp:
 
-Os seguintes temas foram abordados neste bootcamp:
 * Príncipios de Desenvolvimento de Software Colaborativo;
-* Dominando a Linguagem de Programação Java;
+    * Versionamento de Código;
+    * Introdução à Plataforma Java.
+* Dominando a Linguagem de Programação  Java;
+    * Estruturas de Repetição e escolhas em java;
+    * Tratamento de Exceções e Debugging.
 * Programação Orientada a Objetos com Java;
-* Teste e Gerenciamento de Dependências em Projetos Java;
-* Banco de DAdos SQL e NoSQL Para Desenvolvedores Back-end;
-* Ganahndo Produtividade no Java com Spring Framework;
-* Soft Skills na Era Ágil.
+   * Pilares da Programação Orientada a Objetos;
+   * Modelagem UML;
+   * Collections com java;
+   * Produtividade com Stream API; 
+* Teste e Gerenciamento de Dependências em  Projeto Java
+    * Gerenciamento de Dependências e Build em java com Maven;
+    * Introdução a Testes de Software;
+    * Teste Unitários com JUnit;
+     Desenvolvendo Testes Utilizando Mockito.
+* Banco de DAdos SQL e NoSQL Para Desenvolvedores Back-end
+    * Introdução a Banco de Dados Relacionais(SQL);
+    * Introdução ao MongoDB e Banco de Dados NoSQL.
+* Ganhando Produtividade no Java com Spring
+   * Introdução a Spring Framework com Spring Boot;
+   * Criando uma API REST Documentada com sPRING Web w Swagger.
+   * Adicionando Seguranã a uma API REST com Spring Security;
+   * Design Patterns com Java: Dos Clássicos(GoF) ao Spring Framework.
+   * Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway.
+* Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades
+    * trabalhando em Equipes Ágeis;
+    * Deixando Seu Linkedin Atrativo;
+    * Transformando seu Conhecimento em Artigos Técnicos;
+    * Se Preparando Para Uma Entrevista.
 
