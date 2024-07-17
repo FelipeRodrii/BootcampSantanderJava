@@ -1,0 +1,12 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "/caminho/para/o/seu/java17/home"
+        },
+        {
+            "name": "JavaSE-20",
+            "path": "/caminho/para/o/seu/java20/home"
+        }
+    ]
+}
