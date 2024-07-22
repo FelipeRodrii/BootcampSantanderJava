@@ -29,7 +29,13 @@ public class ClientRestController {
     @PostMapping
     public ResponseEntity<Client> insert(@RequestBody Client client, ArrayList<Book> book){
         clientService.insert(client, book);
-        return new ResponseEntity.ok(client);
+        return ResponseEntity.ok(client);
+    }
+
+    @DeleteMapping("/id")
+    public ResponseEntity<Long> delete(@PathVariable Long id){
+        clientService.delete(id);
+       return ResponseEntity.ok(id);
     }
 
 
