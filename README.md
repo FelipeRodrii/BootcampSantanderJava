@@ -24,11 +24,11 @@
 * Ganhando Produtividade no Java com Spring
    * Introdução a Spring Framework com Spring Boot;
    * Criando uma API REST Documentada com sPRING Web w Swagger.
-   * Adicionando Seguranã a uma API REST com Spring Security;
+   * Adicionando Segurança a uma API REST com Spring Security;
    * Design Patterns com Java: Dos Clássicos(GoF) ao Spring Framework.
    * Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway.
 * Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades
-    * trabalhando em Equipes Ágeis;
+    * Trabalhando em Equipes Ágeis;
     * Deixando Seu Linkedin Atrativo;
     * Transformando seu Conhecimento em Artigos Técnicos;
     * Se Preparando Para Uma Entrevista.
